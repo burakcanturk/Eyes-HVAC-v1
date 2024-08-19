@@ -6,5 +6,5 @@ Our system's software is just Arduino IDE software. It has written for stm32f103
 
 It's Arduino IDE Libraries that you must upload:<br>
 STM32LowPower.h: https://github.com/stm32duino/STM32LowPower/tree/main<br>
-IR_REMOTE.h: https://github.com/burakcanturk/IR_Remote<br>
-HLK_LD2450.h: https://github.com/burakcanturk/HLK_LD2450_Library<br>
+IR_REMOTE.h:     https://github.com/burakcanturk/IR_Remote<br>
+HLK_LD2450.h:    https://github.com/burakcanturk/HLK_LD2450_Library<br>
