@@ -4,7 +4,7 @@ This is a autonomous air conditioner closing system. It scans the room for peopl
 
 Our system's software is just Arduino IDE software. It has written for stm32f103c8t6 blue pill.
 
-It's Arduino IDE Libraries that you must upload:
+It's Arduino IDE Libraries that you must upload:<br>
 STM32LowPower.h: https://github.com/stm32duino/STM32LowPower/tree/main
 IR_REMOTE.h: https://github.com/burakcanturk/IR_Remote
 HLK_LD2450.h: https://github.com/burakcanturk/HLK_LD2450_Library
