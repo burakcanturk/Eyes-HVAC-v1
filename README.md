@@ -5,6 +5,9 @@ This is a autonomous air conditioner closing system. It scans the room for peopl
 Our System's Front PCB:<br>
 <img src="eyes_hvac_v1_pcb/eyes_hvac_v1_pcb_front.png" alt="Connections tab" width="300"/>
 
+Our System's Back PCB:<br>
+<img src="eyes_hvac_v1_pcb/eyes_hvac_v1_pcb_back.png" alt="Connections tab" width="300"/>
+
 Our system's software is just Arduino IDE software. It has written for stm32f103c8t6 blue pill.
 
 It's Arduino IDE Libraries that you must upload:<br>
