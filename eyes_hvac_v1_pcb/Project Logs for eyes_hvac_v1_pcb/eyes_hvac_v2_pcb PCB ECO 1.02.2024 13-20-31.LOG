@@ -1,0 +1,8 @@
+Added Component: Designator=HLK-LD2450(HLK-LD2450)
+Added Pin To Net: NetName=+5 Pin=HLK-LD2450-+5V
+Added Pin To Net: NetName=HLK-LD2450_RX Pin=HLK-LD2450-RX
+Added Pin To Net: NetName=HLK-LD2450_TX Pin=HLK-LD2450-TX
+Added Pin To Net: NetName=Net2N2222_1_C Pin=2N2222_1-C
+Added Pin To Net: NetName=Net2N2222_1_C Pin=HLK-LD2450-GND
+Added Net: Name=Net2N2222_1_C
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component HLK-LD2450

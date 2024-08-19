@@ -1,0 +1,15 @@
+Added Component: Designator=Open/Close Switch(Open/Close Switch)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1825159-1/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration_Pole-Throw"; Value = "Single Pole - Double Throw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact_Current_Rating"; Value = ".25 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1825159-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1825159-1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1825159-1/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switch_Type"; Value = "Slide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component Open/Close Switch

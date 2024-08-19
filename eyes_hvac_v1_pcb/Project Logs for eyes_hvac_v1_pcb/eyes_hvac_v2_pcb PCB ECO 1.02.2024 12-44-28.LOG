@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+5 Pin=Open/Close Switch-1
+Removed Pin From Net: NetName=VCC Pin=Open/Close Switch-2
+Change component parameters: Designator = "Open/Close Switch" ("Open/Close Switch"); Footprint = "Open/Close Switch"; UniqueID = "\GITKMHOD" ("\GITKMHOD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1825159-1/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Configuration_Pole-Throw"; Value = "Single Pole - Double Throw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact_Current_Rating"; Value = ".25 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1825159-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1825159-1/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1825159-1/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch_Type"; Value = "Slide"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

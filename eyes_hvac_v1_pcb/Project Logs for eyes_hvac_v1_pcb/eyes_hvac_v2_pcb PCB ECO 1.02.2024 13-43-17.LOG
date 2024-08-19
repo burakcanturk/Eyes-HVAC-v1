@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=BT-NEG
+Removed Pin From Net: NetName=VCC Pin=BT-POS
+Added Pin To Net: NetName=GND Pin=BT-NEG
+Added Pin To Net: NetName=VCC Pin=BT-POS

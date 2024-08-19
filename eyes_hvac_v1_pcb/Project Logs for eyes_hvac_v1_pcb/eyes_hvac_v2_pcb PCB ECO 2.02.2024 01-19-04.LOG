@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VCC Pin=Open/Close Switch-2
+Added Component: Designator=*(V/C TEST)
+Added Component: Designator=Voltage Input(Voltage Input)
+Added Pin To Net: NetName=GND Pin=*-GND
+Added Pin To Net: NetName=VCC Pin=*-VCC
+Added Pin To Net: NetName=GND Pin=Voltage Input-GND
+Added Pin To Net: NetName=VCC Pin=Voltage Input-VCC
+Added Pin To Net: NetName=VCC_2 Pin=*-VCC_2
+Added Pin To Net: NetName=VCC_2 Pin=Open/Close Switch-2
+Added Net: Name=VCC_2
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component * V/C Test
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component Voltage Input

@@ -1,0 +1,17 @@
+Added Component: Designator=Open/Close Switch(Open/Close Switch)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "E-Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RR511D1121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/RR511D1121/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/RR511D1121/E-Switch/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Voltage Input(Voltage Input)
+Added Pin To Net: NetName=+5 Pin=Open/Close Switch-1
+Added Pin To Net: NetName=VCC Pin=Open/Close Switch-2
+Added Pin To Net: NetName=GND Pin=Voltage Input-GND
+Added Pin To Net: NetName=VCC Pin=Voltage Input-VCC
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component Open/Close Switch
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component Voltage Input

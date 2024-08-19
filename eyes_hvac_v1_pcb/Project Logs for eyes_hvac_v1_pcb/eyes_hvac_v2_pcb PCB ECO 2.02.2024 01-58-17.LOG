@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=Voltage Input-GND
+Removed Pin From Net: NetName=VCC Pin=Voltage Input-VCC
+Removed Member From Class: ClassName=eyes_hvac_v2_pcb Member=Voltage Input

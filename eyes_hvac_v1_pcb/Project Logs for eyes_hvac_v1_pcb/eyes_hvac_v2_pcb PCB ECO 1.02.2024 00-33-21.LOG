@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=Power Jack-1
+Removed Pin From Net: NetName=+5 Pin=Power Jack-2
+Added Pin To Net: NetName=+5 Pin=Power Jack-1
+Added Pin To Net: NetName=GND Pin=Power Jack-2
+Added Pin To Net: NetName=GND Pin=Power Jack-3
+Added Pin To Net: NetName=+5 Pin=Type C Voltage IN-B9
+Added Pin To Net: NetName=GND Pin=Type C Voltage IN-B12
+Added Pin To Net: NetName=GND Pin=Type C Voltage IN-S1
+Added Pin To Net: NetName=GND Pin=Type C Voltage IN-S2
+Added Pin To Net: NetName=GND Pin=Type C Voltage IN-S3
+Added Pin To Net: NetName=GND Pin=Type C Voltage IN-S4

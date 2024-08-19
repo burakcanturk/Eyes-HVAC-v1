@@ -1,0 +1,14 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [eyes_hvac_v1_pcb.PcbDoc]
+   Generated File[eyes_hvac_v1_pcb-RoundHoles.TXT]
+   Generated File[eyes_hvac_v1_pcb-SlotHoles.TXT]
+   Generated File[eyes_hvac_v1_pcb-RectHoles.TXT]
+   Generated File[eyes_hvac_v1_pcb.LDP]
+   Generated File[eyes_hvac_v1_pcb.DRR]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 15:49:48 On 19.08.2024

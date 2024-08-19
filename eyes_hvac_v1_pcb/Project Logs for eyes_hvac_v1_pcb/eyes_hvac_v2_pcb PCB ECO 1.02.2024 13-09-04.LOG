@@ -1,0 +1,13 @@
+Added Component: Designator=Buzzer(Buzzer)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CMI-1295-1285T/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/audio/buzzers/audio-indicators/cmi-1295-1285t?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "102-CMI-1295-1285T-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CMI-1295-1285T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "CUI Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CMI-1295-1285T/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CMI-1295-1285T/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Buzzer-N
+Added Pin To Net: NetName=Buzzer IN Pin=Buzzer-P
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component Buzzer

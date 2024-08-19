@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=2T 6P Rotary Switch NewDesignator=S1
+Change Component Designator: OldDesignator=3 NewDesignator=STM32F103C8T6 Board
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component 2N2222_1 2N2222
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component BT 4 Cell AA Battery Holder

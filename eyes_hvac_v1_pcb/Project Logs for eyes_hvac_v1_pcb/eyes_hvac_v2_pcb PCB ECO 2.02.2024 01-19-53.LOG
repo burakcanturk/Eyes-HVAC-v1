@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=*-GND
+Removed Pin From Net: NetName=VCC_2 Pin=*-VCC_2
+Removed Pin From Net: NetName=VCC Pin=*-VCC
+Removed Member From Class: ClassName=eyes_hvac_v2_pcb Member=*
+Added Component: Designator=V/C Test(V/C TEST)
+Added Pin To Net: NetName=GND Pin=V/C Test-GND
+Added Pin To Net: NetName=VCC_2 Pin=V/C Test-VCC_2
+Added Pin To Net: NetName=VCC Pin=V/C Test-VCC
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component V/C Test

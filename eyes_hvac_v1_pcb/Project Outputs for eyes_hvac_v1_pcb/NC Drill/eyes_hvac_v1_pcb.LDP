@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Burak\Desktop\folders\Altium Cizimler\eyes_hvac_v1_pcb\eyes_hvac_v1_pcb.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=eyes_hvac_v1_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=eyes_hvac_v1_pcb-slotholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=eyes_hvac_v1_pcb-rectholes.txt|DrillLayers=gtl,gbl

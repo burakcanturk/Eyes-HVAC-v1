@@ -1,0 +1,10 @@
+Added Component: Designator=BT(4 CELL AA BATTERY HOLDER)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=4389075"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MPD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC4AAB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC4AAB/MPD/view-part/4389075/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=eyes_hvac_v2_pcb Member=Component BT 4 Cell AA Battery Holder
