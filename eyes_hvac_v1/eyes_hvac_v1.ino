@@ -1,5 +1,5 @@
 #include <EEPROM.h>
-#include <IR_Remote.h>
+#include <IR_Remote_Raw.h>
 #include <HLK_LD2450.h>
 #include <STM32LowPower.h>
 
@@ -95,7 +95,7 @@ void setup() {
   irrecv.begin();
   irsend.begin();
 
-  ld2450.begin();
+  //ld2450.begin();
 
   pinMode(button_pin, INPUT_PULLUP);
 
