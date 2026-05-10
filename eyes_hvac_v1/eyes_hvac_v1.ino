@@ -35,7 +35,7 @@ HardwareSerial hlk_ser(USART2);
 
 #define ir_test_button_pin PA7
 
-#define minute_factor 60
+#define minute_factor 1
 
 #define SECOND_5_TIME 5000
 #define SECOND_10_TIME 10000
@@ -83,8 +83,8 @@ void setup() {
 
   pinMode(hlk_open_pin, OUTPUT);
 
-  digitalWrite(hlk_open_pin, LOW);
-  //digitalWrite(hlk_open_pin, HIGH);
+  //digitalWrite(hlk_open_pin, LOW);
+  digitalWrite(hlk_open_pin, HIGH);
 
   //clearEEPROM();
 
@@ -297,7 +297,7 @@ void humanControl() {
 
   setRgb(0, 0, 0);
 
-  digitalWrite(hlk_open_pin, HIGH);
+  //digitalWrite(hlk_open_pin, HIGH);
 
   for (int i = 0; i < 30; i++) {
 
@@ -314,7 +314,7 @@ void humanControl() {
     }
   }
 
-  digitalWrite(hlk_open_pin, LOW);
+  //digitalWrite(hlk_open_pin, LOW);
 
   //CONSOLE_SERIAL.print("Target X: ");
   //CONSOLE_SERIAL.println(ld2450.getTargetX());
@@ -334,7 +334,7 @@ void humanControl() {
       ld2450.getSpeed() == 0 and
       ld2450.getDistanceResolution() == 0) {
 
-    digitalWrite(hlk_open_pin, HIGH);
+    //digitalWrite(hlk_open_pin, HIGH);
 
     for (int i = 0; i < 30; i++) {
 
@@ -351,7 +351,7 @@ void humanControl() {
       }
     }
 
-    digitalWrite(hlk_open_pin, LOW);
+    //digitalWrite(hlk_open_pin, LOW);
 
     irsend.sendRaw(air_cond_vals, air_cond_vals_len, 50);
     setRgb(1, 0, 0);
